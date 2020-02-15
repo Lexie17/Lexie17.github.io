@@ -26,7 +26,7 @@
 }
 
 .avatar{
-	position: relative;
+	position: absolute;
 	top: 30px;
 	left: 30px; 
 	width:145px;
@@ -51,19 +51,6 @@
 	overflow: hidden;
 	text-overflow:ellipsis;
 	white-space: nowrap;
-}
-
-.position{
-	float: left;
-	position: relative;
-	left: 0px;
-	top: 0px;
-	width: 150px;
-	height:26px;
-	font-size:26px;
-	font-family:Noto Sans S Chinese;
-	font-weight:400;
-	color:rgba(110,110,110,1);
 }
 
 .sign{
